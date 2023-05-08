@@ -1,6 +1,6 @@
 # flask-rabbitmq
 Api desenvolvida em python com flask e rabbitmq
-- flask db migrate
+- flask db upgrade
 - python app.py
 
 # Documentação 
